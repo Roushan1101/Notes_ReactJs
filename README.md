@@ -1,6 +1,6 @@
 To start the application:
 
-Install react node (on frontend directory) modules using : `npx create-react app`
+Install ReactJs.. node modules(on frontend directory) using : `npx create-react app`
 
 enter these command in 2 terminals:-
 
